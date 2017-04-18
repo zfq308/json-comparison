@@ -1,0 +1,11 @@
+{
+  "id": 79,
+  "name": "Lupe",
+  "breed": "Toy Poodle",
+  "lastReadTime": 1491866244673,
+  "appearence": {
+    "weight": 4,
+    "height": 45,
+    "color": "Black"
+  }
+}
